@@ -3,10 +3,11 @@
 
 // Code adapted from https://tour.golang.org/welcome/1
 
-package main
+package main	// package main is needed for executable commands
 
-import "fmt"
+import "fmt"	// "fmt" is used for printing information similar to how C does
 
+// This function prints "Hello, World" in Japanese
 func main() {
 	fmt.Println("Hello, 世界")
 }
