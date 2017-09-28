@@ -9,5 +9,5 @@ import "fmt"	// "fmt" is used for printing information similar to how C does
 
 // This function prints "Hello, World" in Japanese
 func main() {
-	fmt.Println("Hello, 世界")
+	fmt.Println("Hello, こんにちは世界")
 }
