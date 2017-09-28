@@ -17,12 +17,12 @@ func main() {
 		// check if i is divisible by 3 or 5
 		if i%3 == 0 && i%5 == 0{
 			fmt.Printf("FizzBuzz\n")
+		} else if i%3 == 0 {
+			fmt.Printf("Fizz\n")
+		} else if i%5 == 0{
+			fmt.Printf("Buzz\n")
 		} else {
 			fmt.Printf("%d\n", i)
 		}// end if else
-			
-		
-		
-	}
-	
-}
+	}// end for
+}// main
