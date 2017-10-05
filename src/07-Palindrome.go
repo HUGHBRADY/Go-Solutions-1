@@ -1,6 +1,8 @@
 // Go Problem 7 - Palindrome Test
 // Hugh Brady - G00338260 - 05/10/17
 
+// Code adapted from http://www.golangpro.com/2016/01/check-string-palindrome-go.html
+
 package main
 
 import (

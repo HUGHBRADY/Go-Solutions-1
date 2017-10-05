@@ -1,4 +1,4 @@
-// Go Problem 5 - Largest and Smallest in a List
+// Go Problem 6 - Largest and Smallest in a List
 // Hugh Brady - G00338260 - 03/10/17
 
 // code adapted from https://gist.github.com/pyk/10519339
