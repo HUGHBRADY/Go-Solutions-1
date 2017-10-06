@@ -7,10 +7,10 @@ To run any Go programs on your machine you must download the [Go compiler](https
 Once Go is installed, open your command prompt and follow the steps below.
 
 1) Clone this repository using Git.
-> git clone https://github.com/HUGHBRADY/Go-Solutions-1
+>> git clone https://github.com/HUGHBRADY/Go-Solutions-1
 
 2) Change directory into the src folder
-> cd Go-Solutions-1/src
+>> cd Go-Solutions-1/src
 
 3) Run any of the files you wish
-> go run <filename.go>
+>> go run <filename.go>
