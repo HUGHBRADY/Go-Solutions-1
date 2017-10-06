@@ -12,5 +12,6 @@ import (
 
 // This function prints the current time
 func main() {
-	fmt.Println("The time is", time.Now()) 
+	t := time.Now()
+	fmt.Printf("The time is %d:%d", t.Hour(), t.Minute()) 
 }

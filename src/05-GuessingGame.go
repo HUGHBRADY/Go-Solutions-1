@@ -26,7 +26,7 @@ func main(){
 	fmt.Print("Enter a number between 1 and 30: ")
 
 	// use counter as loop control
-	for ; counter < 29; counter++{
+	for counter = 1; counter < 30; counter++{
 		// prompt and read user input
 		fmt.Scanf("%d", &guess)
 		fmt.Scanf("%d")
