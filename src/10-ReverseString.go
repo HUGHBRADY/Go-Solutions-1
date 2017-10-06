@@ -1,4 +1,5 @@
-//
+// Go Problem 10 - Reverse String
+// Hugh Brady - G00338260 - 05/19/17
 
 package main 
 
